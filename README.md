@@ -1,6 +1,8 @@
 # Basic-Credit-Calc
 Una calculadora de credito basica
 
-Esta es una calculadora para para el calculo de creditos simples, a travez de la linea de comando.
+Una calculadora de crédito básica
+Esta es una calculadora para para el cálculo de créditos simples, a través de la línea de comando.
+Actualmente soporta el cálculo para obtener el monto mínimo a pagar de un crédito en determinado tiempo con tasa de interés fija, o el monto de crédito usando los valores. Una mejoría inmediata seria la introducción de tasas variables de interés.
 
-actualmente soporta el calculo para obtener el monto minimo a pagar de un credito en determinado tiempo con tasa de interes fija, o el monto de credito usando los valores.
+
